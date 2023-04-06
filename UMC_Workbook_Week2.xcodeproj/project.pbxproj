@@ -17,6 +17,7 @@
 		94182F9129DC7BCA003EF446 /* UMC_Workbook_Week2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94182F9029DC7BCA003EF446 /* UMC_Workbook_Week2Tests.swift */; };
 		94182F9B29DC7BCA003EF446 /* UMC_Workbook_Week2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94182F9A29DC7BCA003EF446 /* UMC_Workbook_Week2UITests.swift */; };
 		94182F9D29DC7BCA003EF446 /* UMC_Workbook_Week2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94182F9C29DC7BCA003EF446 /* UMC_Workbook_Week2UITestsLaunchTests.swift */; };
+		9484EA9329DF286C0040829B /* TestVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9484EA9229DF286C0040829B /* TestVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		94182F9629DC7BCA003EF446 /* UMC_Workbook_Week2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UMC_Workbook_Week2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94182F9A29DC7BCA003EF446 /* UMC_Workbook_Week2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UMC_Workbook_Week2UITests.swift; sourceTree = "<group>"; };
 		94182F9C29DC7BCA003EF446 /* UMC_Workbook_Week2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UMC_Workbook_Week2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9484EA9229DF286C0040829B /* TestVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				94182F8429DC7BCA003EF446 /* LaunchScreen.storyboard */,
 				94182F8729DC7BCA003EF446 /* Info.plist */,
 				94182F7F29DC7BC9003EF446 /* UMC_Workbook_Week2.xcdatamodeld */,
+				9484EA9229DF286C0040829B /* TestVC.swift */,
 			);
 			path = UMC_Workbook_Week2;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9484EA9329DF286C0040829B /* TestVC.swift in Sources */,
 				94182F7B29DC7BC9003EF446 /* ViewController.swift in Sources */,
 				94182F7729DC7BC9003EF446 /* AppDelegate.swift in Sources */,
 				94182F8129DC7BC9003EF446 /* UMC_Workbook_Week2.xcdatamodeld in Sources */,
